@@ -1,4 +1,4 @@
-### Generating sparks and producing fire! 🔥
+### Generating sparks and making fire! 🔥
 
 - 🔭 I am currently working as a Freelance Designer
 - 🌱 I’m currently learning HTML, CSS and JS
