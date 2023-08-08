@@ -1,6 +1,6 @@
 ### Hi there i'm Deivide!👋
 
-- 🔭 I’m currently working whit Freelance Design
+- 🔭 I am currently working as a Freelance Designer
 - 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: d4vidmenezes@gmail.com
 - 😄 Pronouns: He / Him
