@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a Freelance Designer
 - 🌱 I’m currently learning HTML, CSS and JS
-- 📫 How to reach me: d4vidmenezes@gmail.com
+- 📫 How to reach me: jobs.d4vidmenezes@gmail.com
 - 😄 Pronouns: He / Him
   
  <div>
